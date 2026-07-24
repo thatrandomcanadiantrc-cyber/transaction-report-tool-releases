@@ -1,1 +1,8 @@
-
+{
+  "latest_version": "1.0.13D",
+  "min_supported_version": "1.0.10B",
+  "download_url": "",
+  "signature": null,
+  "notes": "Signed updates and cloud backup walkthroughs.",
+  "notes_url": ""
+}
