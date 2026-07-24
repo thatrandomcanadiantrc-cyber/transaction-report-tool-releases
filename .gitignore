@@ -1,0 +1,10 @@
+# Never commit signing material — the private key must stay offline
+*.pem
+*.key
+signing_keys/
+**/signing_keys/
+*.private.*
+
+# Local noise
+.DS_Store
+Thumbs.db
