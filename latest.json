@@ -1,14 +1,8 @@
 {
-  "latest_version": "1.0.13E",
+  "latest_version": "1.0.13D",
   "min_supported_version": "1.0.10B",
-  "download_url": "https://github.com/thatrandomcanadiantrc-cyber/transaction-report-tool-releases/releases/download/v1.0.13E/TransactionReportApp_Update_v1.0.13E.zip",
-  "signature": {
-    "format": "traupd-sig-1",
-    "algorithm": "ed25519",
-    "key_id": "a5a55181d63bf43a",
-    "archive_sha256": "0cbc615abcab8a02b1d7e6ccfafda31a6e3446ab26ad379b9be957305c42db8f",
-    "signature": "13pAIUbsdalagLt+8N+uJdHpXJPgMMVCA+27lLcjhig8VgjQdUbgwoGrZMAShqPxE67/jQhdN+H221PLlEVJCw=="
-  },
-  "notes": "Test release to verify the auto-update loop.",
+  "download_url": "",
+  "signature": null,
+  "notes": "Signed updates, self-updating, and cloud backup walkthroughs.",
   "notes_url": ""
 }
